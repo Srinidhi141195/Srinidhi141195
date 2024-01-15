@@ -29,8 +29,14 @@
   My goal is to continue creating valuable products, and I am eager to contribute my AWS expertise in an environment that fosters skill development and innovation.
 </p>
 <br>
+**I'm a Night 🦉** 
 
-
+```text
+🌞 Morning                424 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+🌆 Daytime                1711 commits        ██████████░░░░░░░░░░░░░░░   38.96 % 
+🌃 Evening                1428 commits        ████████░░░░░░░░░░░░░░░░░   32.51 % 
+🌙 Night                  829 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
