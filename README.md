@@ -29,6 +29,7 @@
   My goal is to continue creating valuable products, and I am eager to contribute my AWS expertise in an environment that fosters skill development and innovation.
 </p>
 <br>
+
 **I'm a Night 🦉** 
 
 ```text
@@ -64,6 +65,13 @@ Windows11                  8 repos          ███░░░░░░░░░
 ```
 
 **I Mostly Code in Python** 
+
+```text
+Python                     24 hrs           █████████████████████████   100.00 %
+```
+
+
+
 
 ```text
 Python                     24 hrs           █████████████████████████   100.00 %
