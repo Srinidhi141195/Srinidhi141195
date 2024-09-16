@@ -19,7 +19,7 @@
 
   In addition, I automate cloud deployment using Python, CloudFormation Templates (CFT) in JSON and YAML formats, and CI/CD tools like Jenkins. My experience includes configuring high availability, disaster recovery with AWS Route 53, and utilizing various Lambda services for automating cloud functionality.
 
-  As part of a 20-member team trained by Avaya, I've contributed to new product implementation and cloud migration projects. My proficiency covers IAM, RDS, VPC, SES, SQS, SNS services, creating custom IAM policies, roles, and user management within AWS regions.
+  Networking expertise was demonstrated through the design, configuration, and deployment of routers and switches, Avaya UC and CC devices, and the management of Ethernet, WAN, LAN, and TCP/IP protocols. Proficient in network security and optimization techniques including ACL, NAT, and experienced with advanced networking technologies like ATM, MPLS, Multicast, GRE, and VPN. The role required extensive use of network analysis tools like Wireshark and expertise in protocols such as Webrtc, DHCP, PBX, UDP, H.323, SIP, and TSAPI. 
 
   My goal is to continue creating valuable products, and I am eager to contribute my AWS expertise in an environment that fosters skill development and innovation.
 </p>
